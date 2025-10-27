@@ -1,0 +1,134 @@
+body {
+    font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #0d0d10; /* Fondo muy oscuro, casi negro */
+    color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+#app-header {
+    background-color: #1a1a20; /* Cabecera con un tono ligeramente diferente */
+    padding: 15px 40px; /* Padding ajustado */
+    text-align: left;
+    border-bottom: 3px solid #00c6ff; /* Acento azul brillante */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+#app-header h1 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+}
+
+/* -------------------- ESTILO DEL MENÚ SUPERIOR DE PAÍSES -------------------- */
+.menu-top {
+    display: flex; /* Horizontal */
+    flex-wrap: wrap; 
+    gap: 10px; 
+    padding-top: 10px;
+    border-top: 1px solid #282830;
+}
+
+.menu-top button.nav-button {
+    background-color: #0d0d10; 
+    color: #e0e0e0;
+    border: 1px solid #282830;
+    padding: 8px 15px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: all 0.3s;
+    border-radius: 5px;
+}
+
+.menu-top button.nav-button:hover {
+    background-color: #282830;
+    transform: none;
+    box-shadow: none;
+}
+
+.menu-top button.nav-button.active {
+    background: #00c6ff;
+    color: #1a1a20;
+    font-weight: 700;
+    box-shadow: 0 0 10px rgba(0, 198, 255, 0.4);
+}
+
+#main-content {
+    display: block; 
+    max-width: 1500px;
+    margin: 30px auto;
+    padding: 0 40px;
+}
+
+/* -------------------- ESTILO DE LA LISTA DE CANALES (CUADRÍCULA) -------------------- */
+.contenedor-canales {
+    padding: 0; 
+    display: grid; 
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); 
+    gap: 20px;
+}
+
+.canal-tile {
+    background-color: #1a1a20;
+    color: #fff;
+    border: 1px solid #282830; 
+    padding: 15px 10px;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.3s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 180px; 
+    border-radius: 12px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.5);
+}
+
+.canal-tile:hover {
+    background-color: #282830;
+    transform: scale(1.05); 
+    border-color: #00c6ff; 
+    box-shadow: 0 10px 25px rgba(0, 198, 255, 0.3);
+}
+
+.canal-logo {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    margin-bottom: 12px;
+    border-radius: 8px;
+}
+
+.canal-nombre {
+    font-size: 15px;
+    font-weight: 600;
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%; 
+    padding: 0 5px;
+    color: #e0e0e0;
+}
+
+/* -------------------- ESTILO DE BÚSQUEDA -------------------- */
+#searchInput {
+    width: 100%;
+    padding: 14px;
+    margin-bottom: 30px;
+    background-color: #1a1a20;
+    color: #f0f0f0;
+    border: 1px solid #3c3c45;
+    font-size: 18px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    transition: border-color 0.3s;
+}
+
+#searchInput:focus {
+    border-color: #00c6ff;
+    outline: none;
+}
