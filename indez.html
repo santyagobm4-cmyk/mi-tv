@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📺 Mi TV Online</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header id="app-header">
+        <h1>📺 Mi TV Latino</h1>
+        <nav id="menu-paises" class="menu-top">
+            </nav>
+    </header>
+
+    <main id="main-content">
+        
+        <input type="text" id="searchInput" placeholder="Buscar canal..." onkeyup="filtrarCanales()" style="display: none;">
+        
+        <div id="canales-lista" class="contenedor-canales">
+            <p>Selecciona una lista de canales arriba.</p>
+        </div>
+
+    </main>
+    
+    <script src="app.js"></script>
+</body>
+</html>
