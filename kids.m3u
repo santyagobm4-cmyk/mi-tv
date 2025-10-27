@@ -1,0 +1,21 @@
+#EXTM3U
+#extinf:-1,babyfirst
+http://200.113.4.75:7210/play/a02j/index.m3u8
+#extinf:-1,discovery kids
+http://200.113.4.75:7210/play/a004/index.m3u8
+#extinf:-1,disney channel
+http://200.113.4.75:7210/play/a00r/index.m3u8
+#extinf:-1,disney jr
+http://200.113.4.75:7210/play/a00l/index.m3u8
+#extinf:-1,nick jr
+http://200.113.4.75:7210/play/a025/index.m3u8
+#extinf:-1,nickelodeon
+http://200.113.4.75:7210/play/a01a/index.m3u8
+#extinf:-1,canal infantil
+http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
+#extinf:-1,cinefamiliar
+http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
+#extinf:-1,canal infantil
+http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
+#extinf:-1,cinefamiliar
+http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
