@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,CANAL 13
+http://200.113.4.75:7210/play/a00a/index.m3u8
+#EXTINF:-1,RCN Novelas
+http://200.113.4.75:7210/play/a01t/index.m3u8
+#EXTINF:-1,Caracol HD
+http://181.78.7.90:12500/play/a06b/index.m3u8
+#EXTINF:-1,La Kalle
+http://181.78.7.90:12500/play/a06g/index.m3u8
+#EXTINF:-1,RCN HD 2
+http://181.78.7.90:12500/play/a06l/index.m3u8
+#EXTINF:-1,Señal Colombia
+http://181.78.7.90:12500/play/a06e/index.m3u8
+#EXTINF:-1,Teleantioquia
+http://181.78.7.90:12500/play/a0b2/index.m3u8
+#EXTINF:-1,Telecafe
+http://181.78.7.90:12500/play/a00c/index.m3u8
+#EXTINF:-1,Telecaribe
+http://181.78.7.90:12500/play/a00d/index.m3u8
+#EXTINF:-1,WINMAS
+http://181.78.7.90:12500/play/WINMAS/index.m3u8
+#EXTINF:-1,Caracol HD
+http://181.78.7.90:12500/play/a06b/index.m3u8
+#EXTINF:-1,La Kalle
+http://181.78.7.90:12500/play/a06g/index.m3u8
+#EXTINF:-1,RCN HD 2
+http://181.78.7.90:12500/play/a06l/index.m3u8
+#EXTINF:-1,Señal Colombia
+http://181.78.7.90:12500/play/a06e/index.m3u8
+#EXTINF:-1,Teleantioquia
+http://181.78.7.90:12500/play/a0b2/index.m3u8
+#EXTINF:-1,Telecafe
+http://181.78.7.90:12500/play/a00c/index.m3u8
+#EXTINF:-1,Telecaribe
+http://181.78.7.90:12500/play/a00d/index.m3u8
+#EXTINF:-1,WINMAS
+http://181.78.7.90:12500/play/WINMAS/index.m3u8
