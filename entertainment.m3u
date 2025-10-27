@@ -1,0 +1,51 @@
+#EXTM3U
+#extinf:-1,axn
+http://200.113.4.75:7210/play/a022/index.m3u8
+#extinf:-1,cinecanal
+http://200.113.4.75:7210/play/a01e/index.m3u8
+#extinf:-1,cinemax
+http://200.113.4.75:7210/play/a020/index.m3u8
+#extinf:-1,fx
+http://200.113.4.75:7210/play/a024/index.m3u8
+#extinf:-1,hbo
+http://200.113.4.75:7210/play/a01z/index.m3u8
+#extinf:-1,hbo
+http://200.113.4.75:7210/play/a02b/index.m3u8
+#extinf:-1,hbo 2
+http://200.113.4.75:7210/play/a00h/index.m3u8
+#extinf:-1,hbo family
+http://200.113.4.75:7210/play/a00k/index.m3u8
+#extinf:-1,hbo plus
+http://200.113.4.75:7210/play/a00i/index.m3u8
+#extinf:-1,hbo xtreme sd
+http://200.113.4.75:7210/play/a00j/index.m3u8
+#extinf:-1,lifetime
+http://200.113.4.75:7210/play/a02k/index.m3u8
+#extinf:-1,sony
+http://200.113.4.75:7210/play/a021/index.m3u8
+#extinf:-1,space
+http://200.113.4.75:7210/play/a023/index.m3u8
+#extinf:-1,syfy
+http://200.113.4.75:7210/play/a02l/index.m3u8
+#extinf:-1,tcm
+http://200.113.4.75:7210/play/a01m/index.m3u8
+#extinf:-1,tnt
+http://200.113.4.75:7210/play/a01p/index.m3u8
+#extinf:-1,tnt novelas
+http://200.113.4.75:7210/play/a02m/index.m3u8
+#extinf:-1,universal
+http://200.113.4.75:7210/play/a01f/index.m3u8
+#extinf:-1,warner
+http://200.113.4.75:7210/play/a00u/index.m3u8
+#extinf:-1,cine hispano
+http://181.78.7.90:12500/play/a0cm/index.m3u8
+#extinf:-1,cine premium
+http://181.78.7.90:12500/play/a0cn/index.m3u8
+#extinf:-1,tnt hd
+http://181.78.7.90:12500/play/a00p/index.m3u8
+#extinf:-1,cine hispano
+http://181.78.7.90:12500/play/a0cm/index.m3u8
+#extinf:-1,cine premium
+http://181.78.7.90:12500/play/a0cn/index.m3u8
+#extinf:-1,tnt hd
+http://181.78.7.90:12500/play/a00p/index.m3u8
